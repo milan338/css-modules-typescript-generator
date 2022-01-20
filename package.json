@@ -1,0 +1,25 @@
+{
+    "name": "css-modules-typescript-generator",
+    "version": "1.0.0",
+    "description": "Generate Typescript definitions for CSS modules",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "typescript",
+        "styles",
+        "css",
+        "sass",
+        "scss",
+        "modules",
+        "autocomplete",
+        "intellisense"
+    ],
+    "author": "milan338 (https://github.com/milan338)",
+    "homepage": "https://github.com/milan338/css-modules-typescript-generator",
+    "license": "MIT",
+    "dependencies": {
+        "css-tree": "^2.0.4"
+    }
+}
